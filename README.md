@@ -5,7 +5,7 @@ Privacy policy of DUI PILA
 
 This Application collects some Personal data from its users.
 
-This document can be printed for reference using the print command in any browser settings.
+This document can be printed for reference using the print command in any browser settings
 
 OWNER AND RESPONSIBLE FOR THE TREATMENT
 
